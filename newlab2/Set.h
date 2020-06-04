@@ -54,7 +54,7 @@ public:
         return result;
     }
 
-    bool HasElement(const T& elem){
+    bool HasElement(const T& elem) const{
         for (int i = 0; i < list->getLength(); i++){
             if (list->get(i) == elem) return true;
         }
@@ -87,7 +87,7 @@ public:
         return result;
     }
 
-    int Get_Length(){
+    int Get_Length() const{
         return list->getLength();
     }
 
