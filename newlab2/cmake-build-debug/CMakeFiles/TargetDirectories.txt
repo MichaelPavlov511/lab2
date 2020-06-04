@@ -1,0 +1,3 @@
+D:/vsyakoe/newlab2/cmake-build-debug/CMakeFiles/newlab2.dir
+D:/vsyakoe/newlab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/vsyakoe/newlab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
