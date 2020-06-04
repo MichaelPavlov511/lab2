@@ -116,7 +116,7 @@ void functions(){
     assert(set.HasElement(multiplication(a, b)));
     assert(!set.HasElement(foo(a)));
     set.Add(foo(a));
-    assert(set.Get_Length() == 3);
+    assert(set.Get_Length() == 4);
 }
 
 void students(){
